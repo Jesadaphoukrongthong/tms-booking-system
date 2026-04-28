@@ -106,6 +106,12 @@ Suggested:
 
 ---
 
+## Project Poster
+
+This poster presents the overall system design, architecture, and real-world application of the project.
+
+[View Poster](./tms-booking-system-poster.pdf)
+
 ## Note
 
 This repository is created for **demonstration and portfolio purposes only**.
